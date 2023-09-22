@@ -34,16 +34,16 @@
       <div class="col-lg-4 mb-4">
         <h3>Contact Details</h3>
         <p>
-          90125 
-          <br>Machakos, Ma 90125
+          Tk 345 
+          <br>Takoradi, Tk 345
           <br>
         </p>
         <p>
-          <abbr title="Phone">P</abbr>: (254) 456-7890
+          <abbr title="Phone">P</abbr>: 233574127017
         </p>
         <p>
           <abbr title="Email">E</abbr>:
-          <a href="mailto:mail@tms.com">mail@transportmanagementsys.com
+          <a href="mailto:ebenezerkwekuagyepong@gmail.com@.com">mail@transportmanagementsys.com
           </a>
         </p>
         <p>

@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
-  <meta name="author" content="EbenezerAgyapong">
+  <meta name="author" content="Ebenezer Agyapong">
 
-  <title>Transport Management System - AN EBENKEYS PRODUCTUION</title>
+  <title>Transport Management System - AN EBENKEYS PRODUCTION</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

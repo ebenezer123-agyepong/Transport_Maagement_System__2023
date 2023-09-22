@@ -53,7 +53,7 @@
   <!-- Page Content -->
   <div class="container">
 
-    <h1 class="my-4">Welcome to Travel Management System</h1>
+    <h1 class="my-4">Welcome to Transport Management System</h1>
 
     <!-- Marketing Icons Section -->
     <div class="row">
